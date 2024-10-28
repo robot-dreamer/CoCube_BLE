@@ -14,7 +14,7 @@ pip install cocube
 
 ## Usage
 
-Save [this project(same as Snap!)](https://microblocksfun.cn/run/microblocks.html#project=https://wwj718.github.io/post/img/CoCube-server-dynatalk-v1.ubp) to your MicroBlocks device.
+Save [this project(same as Snap!)](https://microblocksfun.cn/run/microblocks.html#project=https://wwj718.github.io/post/img/CoCube-server-dynatalk-v2.ubp) to your MicroBlocks device.
 
 ```py
 # pip install -U cocube
